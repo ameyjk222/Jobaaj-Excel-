@@ -1,0 +1,6 @@
+Perform a segmented analysis of churn by area code. Is there a particular area with a significantly higher churn rate ?,,,
+,,,
+Area Code,Total Customers,Churned Customers,Churn Rate
+Area_code  408,1086,152,14%
+Area_code  415,2108,287,14%
+Area_code  510,1056,159,15%
